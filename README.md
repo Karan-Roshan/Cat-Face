@@ -6,8 +6,9 @@ This project demonstrates how to use basic shapes, positioning, and nesting to d
 
 # My Project
 This is my project.
-![Screenshot](https://github.com/Karan-Roshan/Cat-Face/blob/b618c797544e21800144e90b8e889f37eb3a1018/Cat%20Face%20Image.png)
-
+<p align="center">
+  <img src="[assets/myimage.png](https://github.com/Karan-Roshan/Cat-Face/blob/b84151825853dd34c93a0ae8fbde4a4e60a176c1/Cat%20Face%20Image.png)" alt="Centered Image" width="300">
+</p>
 
 # Project Structure
 - index.html      # Main HTML file (cat face structure)
