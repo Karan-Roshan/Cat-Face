@@ -6,7 +6,7 @@ This project demonstrates how to use basic shapes, positioning, and nesting to d
 
 # My Project
 This is my project.
-![Screenshot](assets/screenshot.png)
+![Screenshot](https://github.com/Karan-Roshan/Cat-Face/blob/b618c797544e21800144e90b8e889f37eb3a1018/Cat%20Face%20Image.png)
 
 
 # Project Structure
