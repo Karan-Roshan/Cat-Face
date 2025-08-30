@@ -4,14 +4,14 @@ A simple **CSS art project** that creates a cute cat face using only **HTML** an
 This project demonstrates how to use basic shapes, positioning, and nesting to draw illustrations without images or JavaScript.
 
 
-# Preview
-<img src="Cat-Face/Cat Face Image.png" alt="Cat Cute Face Image>
+# My Project
+This is my project.
+![Screenshot](assets/screenshot.png)
 
 
 # Project Structure
-├── index.html      # Main HTML file (cat face structure)
-├── styles.css      # CSS file (styling and shapes)
-└── Screenshot.png  # Preview image of the cat
+- index.html      # Main HTML file (cat face structure)
+- styles.css      # CSS file (styling and shapes)
 
 
 # Built With
