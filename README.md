@@ -7,7 +7,7 @@ This project demonstrates how to use basic shapes, positioning, and nesting to d
 # My Project
 <p align="center">
   <img src="https://github.com/Karan-Roshan/Cat-Face/blob/78de366ebb99ba59c486b57a6210f1dff5477ced/Cat%20Cute%20Face.png" 
-       alt="Centered Image" 
+       alt="Cute Cate Image" 
        width="300">
 </p>
 
