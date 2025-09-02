@@ -5,8 +5,7 @@ This project demonstrates how to use basic shapes, positioning, and nesting to d
 
 
 # My Project
-This is my project.
-<p align="center">
+<p align="center" border-radius="20px">
   <img src="https://github.com/Karan-Roshan/Cat-Face/blob/78de366ebb99ba59c486b57a6210f1dff5477ced/Cat%20Cute%20Face.png" alt="Centered Image" width="300">
 </p>
 
